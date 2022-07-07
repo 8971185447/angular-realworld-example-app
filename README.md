@@ -10,7 +10,7 @@ Additionally, there is an Angular 1.5 version of this codebase that you can [for
 
 **This codebase is now feature complete and the RFC is open.** Your input is greatly appreciated; please submit bug fixes via pull requests & feedback via issues.
 
-# How it works
+# How it works HOW IT WORK
 
 We're currently working on some docs for the codebase (explaining where functionality is located, how it works, etc) but the codebase should be straightforward to follow as is. We also have a **[live workshop we're holding on October 22nd](https://thinkster.io/announcements/angular-2-workshop)** where we'll break the codebase down, explain how everything works, and do a Q&A session.
 
